@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on a [Grupo Boticario](https://www.grupoboticario.com.br/) company called [GAVB](https://www.gavb.com.br)
-- 🌱 I’m currently learning all things Azure related.
+- 🔭 I’m currently working for SAP
+- 🌱 I’m always learning everything related to AWS
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/giulianisanches/)
