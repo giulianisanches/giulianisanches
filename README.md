@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 -->
 
 - :briefcase: I’m currently working for SAP
-- :v: I'm a '*' engineer ... yeah, that's it. Cloud, DevOps, SRE, Developer.... I create|improve|break things in the IT field.
+- :v: If you need someone to create|improve|break things as a developer, cloud or SRE engineer, I'm here to help :).
 - :mailbox: If you want to know more about me, just access my webpage linked on my profile! 
